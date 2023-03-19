@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "PCA82C250T")(type "Legacy")(uri "C:/Users/mikolaj/Documents/KiCad Libs/CAN/eec.lib")(options "")(descr ""))
-  (lib (name "2023-03-18_19-05-08")(type "Legacy")(uri "C:/Users/mikolaj/Documents/KiCad Libs/LDO/2023-03-18_19-05-08.lib")(options "")(descr ""))
-)
