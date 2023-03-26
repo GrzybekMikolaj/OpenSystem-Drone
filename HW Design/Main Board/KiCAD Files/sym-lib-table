@@ -1,6 +1,7 @@
 (sym_lib_table
-  (lib (name "BMI088")(type "Legacy")(uri "/home/mikolaj/OpenSystem-Drone/HW Design/KiCAD Symbols/BMI088.lib")(options "")(descr ""))
-  (lib (name "BMM150")(type "Legacy")(uri "/home/mikolaj/OpenSystem-Drone/HW Design/KiCAD Symbols/BMM150.lib")(options "")(descr ""))
-  (lib (name "LM3940")(type "Legacy")(uri "/home/mikolaj/OpenSystem-Drone/HW Design/KiCAD Symbols/LM3940.lib")(options "")(descr ""))
-  (lib (name "STM32F103RE")(type "Legacy")(uri "/home/mikolaj/OpenSystem-Drone/HW Design/KiCAD Symbols/STM32F103RE.lib")(options "")(descr ""))
+  (lib (name "BMI088")(type "Legacy")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/BMI088.lib")(options "")(descr ""))
+  (lib (name "BMM150")(type "Legacy")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/BMM150.lib")(options "")(descr ""))
+  (lib (name "LM3940")(type "Legacy")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/LM3940.lib")(options "")(descr ""))
+  (lib (name "STM32F103RE")(type "Legacy")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/STM32F103RE.lib")(options "")(descr ""))
+  (lib (name "MicroSD")(type "Legacy")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/MicroSD.lib")(options "")(descr ""))
 )

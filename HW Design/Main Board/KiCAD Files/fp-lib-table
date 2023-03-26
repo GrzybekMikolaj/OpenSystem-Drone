@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "KiCAD Footprints")(type "KiCad")(uri "/home/mikolaj/OpenSystem-Drone/HW Design/KiCAD Footprints")(options "")(descr ""))
+  (lib (name "KiCAD Footprints - Lnx")(type "KiCad")(uri "/home/mikolaj/OpenSystem-Drone/HW Design/KiCAD Footprints")(options "")(descr ""))
+  (lib (name "KiCAD Footprints")(type "KiCad")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Footprints")(options "")(descr ""))
 )
