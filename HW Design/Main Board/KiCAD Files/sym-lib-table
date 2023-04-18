@@ -4,4 +4,7 @@
   (lib (name "LM3940")(type "Legacy")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/LM3940.lib")(options "")(descr ""))
   (lib (name "STM32F103RE")(type "Legacy")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/STM32F103RE.lib")(options "")(descr ""))
   (lib (name "MicroSD")(type "Legacy")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/MicroSD.lib")(options "")(descr ""))
+  (lib (name "BMP581")(type "KiCad")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/BMP581.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX5073")(type "Legacy")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/MAX5073.lib")(options "")(descr ""))
+  (lib (name "USB_C")(type "Legacy")(uri "C:/Users/mikolaj/Documents/OpenSystem-Drone/HW Design/KiCAD Symbols/usb_c_amphenol.lib")(options "")(descr ""))
 )

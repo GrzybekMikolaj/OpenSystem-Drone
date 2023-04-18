@@ -434,6 +434,14 @@
     [
       "3e135b38-cf58-450e-a0f8-1057f591e40c",
       "Internal Sensors"
+    ],
+    [
+      "682968c6-58e8-4370-9210-14e616f8306a",
+      "Internal Sensors 2"
+    ],
+    [
+      "b44d32cf-30b9-4073-8bd5-2b7a7b9c4a3a",
+      "Internal Communication"
     ]
   ],
   "text_variables": {}
